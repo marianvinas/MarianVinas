@@ -6,7 +6,7 @@ Self-directed and driven technology professional expert in statistical modeling,
 
 Find me around the web 🌎 :
 
-📫  marianvinas@yahoo.com
+📫   marianvinas@yahoo.com
 
   [LinkedIn](https://www.linkedin.com/in/marian-vinas/)
 
