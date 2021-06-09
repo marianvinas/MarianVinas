@@ -1,6 +1,6 @@
 ### Hello👋🏼 👩🏻‍💻
 
-Hi, I'm Marian and you can call me Ria. I'm a Data Scientist who is passionate about deep reinforcement learning.
+Hi, I'm Marian and you can call me Ria. I'm a Data Scientist who is passionate about deep reinforcement learning, data visualization and open-source code.
 
 Self-directed and driven technology professional expert in statistical modeling, machine learning and data analytics. Strong compliance background and demonstrated success developing and seamlessly executing plans in complex organizational structure.
 
