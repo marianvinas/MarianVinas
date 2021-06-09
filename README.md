@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello👋🏼 👩🏻‍💻
+
+Hi, I'm Marian and you can call me Ria. I'm a Data Scientist who is passionate about deep reinforcement learning.
+
+Self-directed and driven technology professional expert in statistical modeling, machine learning and data analytics. Strong compliance background and demonstrated success developing and seamlessly executing plans in complex organizational structure.
+
+Find me around the web 🌎 :
+
+📫  marianvinas@yahoo.com
+
+  [LinkedIn](https://www.linkedin.com/in/marian-vinas/)
+
+
 
 <!--
 **marianvinas/MarianVinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
